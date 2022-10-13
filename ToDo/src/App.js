@@ -21,16 +21,16 @@ function App() {
   }
 
   return(
-    <div class="todo-wrapper">
+    <div className="todo-wrapper">
 
-      <h1 class="todo-title">To Dos ({toDos.length})</h1>
+      <h1 className="todo-title">To Dos ({toDos.length})</h1>
 
-      <div class="todo-box">
-        <div class="todo-input-box">
+      <div className="todo-box">
+        <div className="todo-input-box">
           <form onSubmit={onSubmit}>
-            <button class="complete-all-btn">✔</button>
+            <button className="complete-all-btn">✔</button>
             <input 
-              class="todo-input"
+              className="todo-input"
               onChange={onChange}
               value={toDo}
               type="text" 
@@ -39,11 +39,11 @@ function App() {
           </form>
         </div>
 
-        <ul class="todo-list">
+        <ul className="todo-list">
           {toDos.map((item, index) => (
-            <li class="todo-item" key={index}>
+            <li className="todo-item" key={index}>
               {item}
-              <button class="deleteBtn" onClick={deleteBtn}> x </button>
+              <button className="deleteBtn" onClick={deleteBtn}> x </button>
             </li>
 
           ))}

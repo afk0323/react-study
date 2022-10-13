@@ -16,7 +16,6 @@ button{
 }
 
 #min, #hour{
-    padding-left: 40%;
-    padding-right: 40%;
+    padding-left: 35%;
+    padding-right: 35%;
 }
-
