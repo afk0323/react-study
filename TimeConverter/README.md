@@ -1,4 +1,4 @@
-# Time Converter
+# Time Converter⏳
 Minutes를 입력하면 Hours로, Hours를 입력하면 Minutes로 변환하는 Time Converter 제작
 
 <br>
@@ -17,4 +17,4 @@ state를 세팅하는 2가지 방법
 <br>
 
 ## 🎞 실행 화면
-<img width="1178" alt="스크린샷 2022-10-11 오후 4 49 42" src="https://user-images.githubusercontent.com/86689831/195035196-136b7cf0-f9cd-40c6-8b57-6f2587a7eefc.png">
+<img width="1172" alt="스크린샷 2022-10-13 오후 5 40 12" src="https://user-images.githubusercontent.com/86689831/195547372-4ae4661a-e20f-4f6a-bce6-52093f4564cb.png">
