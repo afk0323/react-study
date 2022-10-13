@@ -10,7 +10,6 @@ body{
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
-    background-color: #F5F5F5;
     min-height: 100%;
 }
 
@@ -28,7 +27,7 @@ button {
 .todo-title {
     padding-top: 2rem;
     text-align: center;
-    color: rosybrown;
+    color: gray;
     font-size: 3rem;
     font-family: 'OTWelcomeBA';
 }
