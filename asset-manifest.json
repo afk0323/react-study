@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-study/static/css/main.acdcf1e3.css",
+    "main.js": "/react-study/static/js/main.bd266077.js",
+    "index.html": "/react-study/index.html",
+    "main.acdcf1e3.css.map": "/react-study/static/css/main.acdcf1e3.css.map",
+    "main.bd266077.js.map": "/react-study/static/js/main.bd266077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acdcf1e3.css",
+    "static/js/main.bd266077.js"
+  ]
+}
